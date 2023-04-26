@@ -1,1 +1,2 @@
 # CSCI-1302-Final
+In this repository I have uploaded one of my first projects after transferring to the University of Georgia. The assignment at the end of the summer semester was to create either a Minesweeper or a Snake game of one's own design. I chose the Minesweeper game in the end. The game functions fine but as a way to improve it I am looking into creating a clickable GUI interface for the game that would make it easier for users to play.
